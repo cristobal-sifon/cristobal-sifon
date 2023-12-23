@@ -27,7 +27,7 @@ I am a member of a number of international collaborations, whose data I use to a
 Latest Research
 ===============
 
-* In [**Sifón & Han (2023)**](https://ui.adsabs.harvard.edu/abs/2023arXiv231212529S/abstract) we asseds the evolution of the relation between dark and stellar mass in cluster galaxies in the EAGLE simulation.
+* In [**Sifón & Han (2023)**](https://ui.adsabs.harvard.edu/abs/2023arXiv231212529S/abstract) we study the evolution of the relation between dark and stellar mass in cluster galaxies in the EAGLE simulation.
 * In [**Robertson, Sifón, et al. (2023)**](https://arxiv.org/abs/2304.10219) we determined the mean mass of clusters selected with the Sunyaev-Zel'dovich effect by measuring their weak gravitational lensing effect on distant galaxies.
 * In [**Hilton, Sifón, et al. (2021)**](https://arxiv.org/abs/2009.11043) we presented the latest galaxy cluster catalog selected with the Sunyaev-Zel'dovich effect, thanks to large overlap with all major optical-NIR surveys. The catalog contains 4,200 galaxy clusters, of which 868 are new. This sample is twice as large as the total number of SZ-selected clusters prior to it!
 * In [**Madhavacheril, Sifón, Battaglia, et al. (2020)**](https://arxiv.org/abs/2009.07772), we used data from ACT to measure the average mass of distant galaxy clusters from the MaDCoWS survey using the gravitational lensing effect imprinted on the CMB.

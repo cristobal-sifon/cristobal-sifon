@@ -1,5 +1,4 @@
 #   Hi there! 👋
-TC
 <!--
 **cristobal-sifon/cristobal-sifon** is a ✨ _special_ ✨ repository because its `READMEf.md` (this file) appears on your GitHub profile.
 

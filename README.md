@@ -1,6 +1,6 @@
 #   Hi there! 👋
 <!--
-**cristobal-sifon/cristobal-sifon** is a ✨ _special_ ✨ repository because its `READMEf.md` (this file) appears on your GitHub profile.
+**cristobal-sifon/cristobal-sifon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Assistant Professor at the [Physics Institute](https://fis.ucv.cl) at [Pontificia Universidad Católica de Valparaíso](http://pucv.cl/). My research focuses on galaxy clusters, taking advantage of the intersection between optical and CMB surveys to study them using the Sunyaev-Zel'dovich effect and weak gravitational lensing. I am also interested in the evolution of cluster galaxies, particularly their dark matter content, and in the intrinsic alignment of galaxies.
+I am an Assistant Professor at the [Physics Institute](https://fis.ucv.cl) at [Pontificia Universidad Católica de Valparaíso](http://pucv.cl/). My research focuses on the connection between dark and luminous matter in galaxy clusters, taking advantage of the intersection between optical and CMB surveys to study them using the Sunyaev-Zel'dovich effect and weak gravitational lensing. I am also interested in the evolution of cluster galaxies, particularly their dark matter content, and in the intrinsic alignment of galaxies.
 
 I am a member of a number of international collaborations, whose data I use to address these issues, including:
 * [4MOST Hemisphere Survey (4HS)](https://4mosthemispheresurvey.github.io/)
@@ -27,8 +27,9 @@ I am a member of a number of international collaborations, whose data I use to a
 Latest Research
 ===============
 
-* In [**Sifón & Han (2023)**](https://ui.adsabs.harvard.edu/abs/2023arXiv231212529S/abstract) we study the evolution of the relation between dark and stellar mass in cluster galaxies in the EAGLE simulation.
-* In [**Robertson, Sifón, et al. (2023)**](https://arxiv.org/abs/2304.10219) we determined the mean mass of clusters selected with the Sunyaev-Zel'dovich effect by measuring their weak gravitational lensing effect on distant galaxies.
+* In [**Shirasaki, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024arXiv240708201S/abstract) we estimate the mean masses of ACT SZ-selected clusters in three redshift bins using galaxy weak lensing measurements from the HSC-SSP survey.
+* In [**Sifón & Han (2024)**](https://ui.adsabs.harvard.edu/abs/2024A&A...686A.163S/abstract) we study the evolution of the relation between dark and stellar mass in cluster galaxies in the EAGLE simulation using the improved HBT+ galaxy catalogue.
+* In [**Robertson, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024A&A...681A..87R/abstract) we determined the mean mass of clusters selected with the Sunyaev-Zel'dovich effect by measuring their weak gravitational lensing effect on distant galaxies.
 * In [**Hilton, Sifón, et al. (2021)**](https://arxiv.org/abs/2009.11043) we presented the latest galaxy cluster catalog selected with the Sunyaev-Zel'dovich effect, thanks to large overlap with all major optical-NIR surveys. The catalog contains 4,200 galaxy clusters, of which 868 are new. This sample is twice as large as the total number of SZ-selected clusters prior to it!
 * In [**Madhavacheril, Sifón, Battaglia, et al. (2020)**](https://arxiv.org/abs/2009.07772), we used data from ACT to measure the average mass of distant galaxy clusters from the MaDCoWS survey using the gravitational lensing effect imprinted on the CMB.
 * In [**Herbonnet, Sifón, et al. (2020)**](https://arxiv.org/abs/1912.04414), we used weak gravitational lensing to accurately measure the masses of 100 massive galaxy clusters, aided with extensive image simulations, in order to improve our ability to use galaxy clusters as cosmological probes.

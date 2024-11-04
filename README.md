@@ -27,7 +27,8 @@ I am a member of a number of international collaborations, whose data I use to a
 Latest Research
 ===============
 
-* In [**Shirasaki, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024arXiv240708201S/abstract) we estimate the mean masses of ACT SZ-selected clusters in three redshift bins using galaxy weak lensing measurements from the HSC-SSP survey.
+* In **Sifón et al. (2024)** we present the selection of cluster and supercluster sample for CHANCES and an initial assessment of the structure surrounding them based on optical photometry.
+* In [**Shirasaki, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024arXiv240708201S/abstract) we estimate the mean masses of ACT SZ-selected clusters using galaxy weak lensing measurements from the HSC-SSP survey.
 * In [**Sifón & Han (2024)**](https://ui.adsabs.harvard.edu/abs/2024A&A...686A.163S/abstract) we study the evolution of the relation between dark and stellar mass in cluster galaxies in the EAGLE simulation using the improved HBT+ galaxy catalogue.
 * In [**Robertson, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024A&A...681A..87R/abstract) we determined the mean mass of clusters selected with the Sunyaev-Zel'dovich effect by measuring their weak gravitational lensing effect on distant galaxies.
 * In [**Hilton, Sifón, et al. (2021)**](https://arxiv.org/abs/2009.11043) we presented the latest galaxy cluster catalog selected with the Sunyaev-Zel'dovich effect, thanks to large overlap with all major optical-NIR surveys. The catalog contains 4,200 galaxy clusters, of which 868 are new. This sample is twice as large as the total number of SZ-selected clusters prior to it!

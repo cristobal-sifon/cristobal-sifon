@@ -19,9 +19,11 @@ I am an Assistant Professor at the [Physics Institute](https://fis.ucv.cl) at [P
 I am a member of a number of international collaborations, whose data I use to address these issues, including:
 * [4MOST Hemisphere Survey (4HS)](https://4mosthemispheresurvey.github.io/)
 * [Atacama Cosmology Telescope (ACT)](https://act.princeton.edu/)
-* [4MOST Chilean Cluster galaxy Evolution Survey (CHANCES)](https://chances.uda.cl/)
+* [4MOST Chilean Cluster Galaxy Evolution Survey (CHANCES)](https://chances.uda.cl/)
+* [CCAT Observatory](https://www.ccatobservatory.org/)
 * [Kilo-Degree Survey (KiDS)](https://kids.strw.leidenuniv.nl/)
 * [Legacy Survey of Space and Time - Dark Energy Science Collaboration (LSST-DESC)](https://lsstdesc.org/)
+* [Legacy Survey of Space and Time - Galaxies Science Collaboration (LSST-GSC)](https://sites.google.com/view/lsstgsc/home)
 * [Simons Observatory](https://simonsobservatory.org/)
 
 Latest Research

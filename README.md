@@ -29,7 +29,7 @@ I am a member of a number of international collaborations, whose data I use to a
 Latest Research Highlights
 ==========================
 
-* In [**Sifón et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024arXiv241113655S/abstract) we present the selection of cluster and supercluster samples for CHANCES and an initial assessment of the structure surrounding them based on optical photometry.
+* In [**Sifón et al. (2025)**](https://ui.adsabs.harvard.edu/abs/2025A&A...697A..92S/abstract) we present the selection of cluster and supercluster samples for CHANCES and an initial assessment of the structure surrounding them based on optical photometry.
 * In [**Shirasaki, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024arXiv240708201S/abstract) we estimate the mean masses of ACT SZ-selected clusters using galaxy weak lensing measurements from the HSC-SSP survey.
 * In [**Sifón & Han (2024)**](https://ui.adsabs.harvard.edu/abs/2024A&A...686A.163S/abstract) we study the evolution of the relation between dark and stellar mass in cluster galaxies in the EAGLE simulation using the improved HBT+ galaxy catalogue.
 * In [**Robertson, Sifón, et al. (2024)**](https://ui.adsabs.harvard.edu/abs/2024A&A...681A..87R/abstract) we determined the mean mass of clusters selected with the Sunyaev-Zel'dovich effect by measuring their weak gravitational lensing effect on distant galaxies.
